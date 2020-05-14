@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RectangleEditor",
+            "request": "launch",
+            "mainClass": "RectangleEditor",
+            "projectName": "情報実験1-1_88137153"
+        }
+    ]
+}
